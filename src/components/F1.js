@@ -68,7 +68,7 @@ class F1 extends Component {
                 </div>
                 )}
             </div>
-            <button className="pickColor btn btn-dark" onClick={this.toggleColorList}>Pick a color</button>
+            <button style={{background:"black"}} className="pickColor btn btn-dark" onClick={this.toggleColorList}>Pick a color</button>
         </div>
     );
   }
