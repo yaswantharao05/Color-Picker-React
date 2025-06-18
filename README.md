@@ -37,5 +37,5 @@ This is the initial view of the app when loaded.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yaswantharao05/Task-3-ReactJS.git
+   git clone https://github.com/yaswantharao05/Color-Picker-React.git
    cd color-picker-react
